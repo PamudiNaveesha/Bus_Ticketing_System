@@ -23,22 +23,22 @@ This bus ticketing system provides a platform for managing bus schedules, fare c
 ![Screenshot 3](Frontend/screenshots/screenshot3.JPG)
 
 ### Add Schedule
-![Screenshot 4](Frontend/screenshots/screenshot4.jpg)
+![Screenshot 4](Frontend/screenshots/screenshot4.JPG)
 
 ### View Schedule
-![Screenshot 5](Frontend/screenshots/screenshot5.jpg)
+![Screenshot 5](Frontend/screenshots/screenshot5.JPG)
 
 ### Update Schedule
-![Screenshot 6](Frontend/screenshots/screenshot6.jpg)
+![Screenshot 6](Frontend/screenshots/screenshot6.JPG)
 
 ### Generate Report
-![Screenshot 7](Frontend/screenshots/screenshot7.jpg)
+![Screenshot 7](Frontend/screenshots/screenshot7.JPG)
 
 ### Fare Calculation
-![Screenshot 8](Frontend/screenshots/screenshot8.jpg)
+![Screenshot 8](Frontend/screenshots/screenshot8.JPG)
 
 ### View Users
-![Screenshot 9](Frontend/screenshots/screenshot9.jpg)
+![Screenshot 9](Frontend/screenshots/screenshot9.JPG)
 
 ## Technologies Used
 
