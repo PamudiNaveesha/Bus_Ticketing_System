@@ -20,7 +20,7 @@ This bus ticketing system provides a platform for managing bus schedules, fare c
 ![Screenshot 2](Frontend/screenshots/screenshot2.png)
 
 ### Dashboard
-![Screenshot 3](Frontend/screenshots/screenshot3.jpg)
+![Screenshot 3](Frontend/screenshots/screenshot3.JPG)
 
 ### Add Schedule
 ![Screenshot 4](Frontend/screenshots/screenshot4.jpg)
